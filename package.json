@@ -1,0 +1,25 @@
+{
+  "name": "gitpulse-cli",
+  "version": "1.0.0",
+  "description": "Interactive terminal Git analytics, contributor impact breakdown, file churn visualizer, and commit activity heatmaps.",
+  "main": "bin/index.js",
+  "bin": {
+    "gitpulse": "./bin/index.js"
+  },
+  "keywords": [
+    "git",
+    "git-analytics",
+    "cli",
+    "terminal",
+    "code-churn",
+    "contributor-stats",
+    "developer-tools",
+    "git-stats"
+  ],
+  "author": "Sahil Chauhan (Sahil Rajput) <sahilrajput6244@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilRajput2266/GitPulse.git"
+  }
+}
